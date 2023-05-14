@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo name="My First F-Droid Repo Demo" icon="fdroid-icon.png" url="https://MyFirstFDroidRepo.org/fdroid/repo" version="21" timestamp="1682008885" pubkey="308204ed308202d5a003020102020406d5bd1a300d06092a864886f70d01010b050030263110300e060355040b1307462d44726f696431123010060355040313096c6f63616c686f73743020170d3233303432303136333434325a180f32303530303930353136333434325a30263110300e060355040b1307462d44726f696431123010060355040313096c6f63616c686f737430820222300d06092a864886f70d01010105000382020f003082020a02820201008d5e02fe756c50f99f68b1b10ebb2cbec154ce3bac837601ae1121e729dc24f7bd229cd09e28dfcd422c9fcd01b9bdbaefae7a73d268ca458331ce70323166478df8102736cd22cb71fd18f7b47e169e3bf324a36bd3f31cb660244b1784aafb7b5913e7d01ec4f0b6281ba22c11c8fe341d9f1ad9814d09d4c4af423866c39e1a672879351d5b72ad1695359702dfdf0ba60ee952581d1c530e97724f860b7db017d466cafdc84795eb23c3e23c56c03e169d586ad98bf2baa07797fc4878a9259b6d4db08f3e9d635df43e1f46c2f0995a90695108b476816bd9eec07abd5a1e7555f44d83de74b9b6c04cc8df62035be18dbed5cf114979704d7367d10cce072cb877ecea61fdb8210cd7bb08a71dfde9c63d098b52601c11e9758ee3dd2fdcf43bff43813511c77a39dfe5bcb4cd7e5824de10f2e34ef053d3ae9cf80160bb4567e819a1d171bc1e0719a8b238854cefe9beb9d36b5c94f9539fa5322f3af649831e192368c002d62fd4ddd95caa90dae37fe57ad1a8f84583d12d4b6da92d9be57ba484b332a0b38c6f1d92a2a03cfd6ffec4457fcfb39e811d1fb4a930b2a845b7e276058c224db20f3f6a4666b48420feda16ab23f53951aae77cb857afc4a1324e5c5bd97ea680ee3a249c2ca189fd02e912f2ec9ca36cc318a76e9ef7a4a46557fde5e5dd498db903e48547dfc3077a4266edded1fdded790138cc70203010001a321301f301d0603551d0e041604149efdf5ef8b6f1e22dae1057132ed3126f4ba11e7300d06092a864886f70d01010b050003820201005ff1e86c43a99970b0f43b339b0c2db431bbf42950df2b4552990fe0c6135b34f81f0623fd8ef75e51f03d87f2d5820714736f1634b976921dd01ea2304e4e126fbf0e3a8c91fa7ef9fc15ea5c6a63c1aed3dde837b9d6cb2151a89a020a24f951cde84be9145da7fab698d1a3f386664c4126a362a574987a8919c3fb564a1cd04861ad8c94d9f2371fb03970757ff446a50aab95365fdf89a2542467d52a9cd6916ebfec09ec177e94621c4e511298150837c00d9afb68170bd589cf585ebd9ae6462da7291ad435748fb9ac784e3332ccd417a491c4161d69d731ed3aa2e36d8b24aec1de2648b1e09a22c0dbfb61c3b3e8e104490c240a2cf9f3625e393227ac81b3c8fefaad61f4fb8d57d462e7d6edc419ba75e56ec9d810fd56c6a42beb059c36a634e2c22e329e993b22180f590eafdfc58db54ac9f3015d4987894d2bd192c0f05df801f906bfe36661675bedb95f013fa3a21565a89dae8709e567688123c686119a51b4005bb46bd2482c628cd0873e84153a4996d2d6406e4c36751440f88a9362b9211f2251d7ae20cb8411ed97d9f9ae5e03183af63137a205b9fbdb0564d4a0e4da08b783a264a3ba0c782a6c7913844fd629da1524c9e3afba04a1c43a38fafe1f629577806b8974c3a5085df195ec6213e6e0c341422454b63c219764accf467721683a1aea0fe5796c50c9bce60a7262fad44eedb8a8f2">
+		<description>This is a repository of apps to be used with F-Droid. Applications in this repository are either official binaries built by the original application developers, or are binaries built from source by the admin of f-droid.org using the tools on https://gitlab.com/u/fdroid. </description>
+	</repo>
+	<application id="com.android.gallery2023.debug">
+		<id>com.android.gallery2023.debug</id>
+		<added>2023-04-20</added>
+		<lastupdated>2023-04-20</lastupdated>
+		<name>Gallery</name>
+		<summary></summary>
+		<icon>com.android.gallery2023.debug.25.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>v0.8.7</version>
+			<versioncode>25</versioncode>
+			<apkname>com.android.gallery2023.debug_25.apk</apkname>
+			<hash type="sha256">a2589bffff5a34ea95ff7b2d9e2bdec069127d7ca90065d6237a665ca5f1e505</hash>
+			<size>7019977</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>28</targetSdkVersion>
+			<added>2023-04-20</added>
+			<sig>f636122d82874bc2a1734b528cb2ed95</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,USE_FINGERPRINT,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+	</application>
+</fdroid>
