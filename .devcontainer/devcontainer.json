@@ -11,7 +11,7 @@
             "type": "string",
             "description": "Debian version (use bookworm or bullseye on local arm64/Apple Silicon):",
             "proposals": [
-				"bookworm",
+		"bookworm",
                 "bullseye",
                 "buster"
             ],
