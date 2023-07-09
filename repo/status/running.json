@@ -1,19 +1,7 @@
 {
   "commandLine": [
-    "/usr/bin/fdroid update",
-    "--create-metadata"
+    "/usr/bin/fdroid update"
   ],
-  "fdroiddata": {
-    "commitId": "a00bfd455175eedaf07d210d5c3c39f009dee111",
-    "isDirty": true,
-    "modifiedFiles": [
-      "repo/index-v1.jar",
-      "repo/index-v1.json",
-      "repo/index.jar",
-      "repo/index.xml"
-    ],
-    "untrackedFiles": []
-  },
-  "startTimestamp": 1688905500000,
+  "startTimestamp": 1688905724000,
   "subcommand": "update"
 }

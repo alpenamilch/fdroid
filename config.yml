@@ -55,8 +55,13 @@ sdk_path: $ANDROID_HOME
 # repo_maxage: 0
 
 repo_url: https://alpenamilch.github.io/fdroid/repo
-repo_name: Alpena
-repo_description: This is a repository of apps to be used with F-Droid. Applications
+repo_name: My Repo
+repo_description: My repo
+#   This is a repository of apps to be used with F-Droid. Applications
+#   in this repository are either official binaries built by the
+#   original application developers, or are binaries built from source
+#   by the admin of f-droid.org using the tools on
+#   https://gitlab.com/fdroid.
 
 # As above, but for the archive repo.
 #
@@ -146,14 +151,14 @@ keystore: keystore.p12
 # different than the keypass below, it can be OK to store the password in this
 # file for real use. But in general, sensitive passwords should not be stored
 # in text files!
-keystorepass: XCP+X+kTrOKMZwkbPUglZkwYd6ljrTgmiXQZvFcfXno=
+keystorepass: YPnacKoKUXejPJxk5z9ORoxhSKPjBwHE4TqmfZtqED4=
 
 
 
 # The password for keys - the same is used for each auto-generated key as well
 # as for the repository key. You should not normally store this password in a
 # file since it is a sensitive password.
-keypass: XCP+X+kTrOKMZwkbPUglZkwYd6ljrTgmiXQZvFcfXno=
+keypass: YPnacKoKUXejPJxk5z9ORoxhSKPjBwHE4TqmfZtqED4=
 
 
 
