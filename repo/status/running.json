@@ -4,7 +4,7 @@
     "--create-metadata"
   ],
   "fdroiddata": {
-    "commitId": "1344b35893d6c2d3663b569bd03c3a105c9993e5",
+    "commitId": "a00bfd455175eedaf07d210d5c3c39f009dee111",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
@@ -12,23 +12,8 @@
       "repo/index.jar",
       "repo/index.xml"
     ],
-    "untrackedFiles": [
-      "config.yml",
-      "keystore.p12",
-      "repo/com.google.android.apps.photosgo.arm_xhdpi.apk",
-      "repo/config.yml",
-      "repo/icons/icon.png",
-      "repo/keystore.p12",
-      "repo/repo/categories.txt",
-      "repo/repo/icons/icon.png",
-      "repo/repo/index-v1.jar",
-      "repo/repo/index.jar",
-      "repo/repo/status/running.json",
-      "repo/repo/status/update.json",
-      "repo/status/running.json",
-      "repo/status/update.json"
-    ]
+    "untrackedFiles": []
   },
-  "startTimestamp": 1688905091000,
+  "startTimestamp": 1688905500000,
   "subcommand": "update"
 }
