@@ -8,7 +8,8 @@
 		"ghcr.io/rocker-org/devcontainer-features/apt-packages:1": {
 			"packages": "wget,curl,nano,vim,gawk,rsync,python3-pip,git,ncdu,rename,mkvtoolnix,aria2,python3-pip,task-spooler,mediainfo"
 		},
-			"ghcr.io/devcontainers-contrib/features/ffmpeg-apt-get:1": {}
+		"ghcr.io/akhildevelops/devcontainer-features/android-cli:0": {},	
+		"ghcr.io/devcontainers-contrib/features/ffmpeg-apt-get:1": {}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
